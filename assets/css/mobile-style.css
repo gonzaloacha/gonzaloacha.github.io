@@ -90,7 +90,10 @@
         padding: 0 1vmin 0 1vmin;
     }
     #testimonials .quote-two {
-        padding-top: 15vmin;
+        padding-top: 14vmin;
+    }
+    #testimonials .quote-one {
+        padding-top: 14vmin;
     }
 }
 
