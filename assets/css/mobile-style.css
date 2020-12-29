@@ -1,0 +1,96 @@
+/* Hero banner section */
+
+@media screen and (max-width:531px) {
+    #banner .container {
+        padding: 0 36px 0 36px;
+        }
+    
+    #banner .container .row {
+        display: flex;
+        flex-flow: column-reverse;
+    }
+    #banner .container .row img {
+        width: 220px;
+        margin-top: 2vmin;
+    }
+
+}
+
+@media screen and (max-width:768px) {
+    #banner .container .row {
+        display: flex;
+        flex-flow: column-reverse;
+    }
+}
+
+/* What I Do section */
+
+#services .container {
+    padding: 0 36px 0 36px;
+    }
+
+@media screen and (max-width:531px) {
+    #services .build {
+        margin-top: 7vmin;
+    }
+
+    }
+
+/* Testimonials section */
+
+@media screen and (max-width:531px) {
+    #testimonials {
+        margin: 50px 0px;
+    }
+
+    #testimonials p {
+        padding: 0 20px;
+    }
+
+    #testimonials footer {
+        padding: 0 20px;
+    }
+}
+
+/* Testimonials section */
+
+@media screen and (max-width:531px) {
+    
+    #my-journey .row .col-md-9 {
+        padding-left: 0px;
+        padding-right: 0px;
+        }
+    
+    #my-journey .container {
+        padding: 0 40px 0 40px;
+        }
+        
+    /* #my-journey .container {
+        padding: 0 50px 0 50px;
+        } */
+    
+    }
+
+    @media screen and (max-width:768px) {
+        #my-journey .row img {
+            display: none;
+            } 
+        }
+
+    /* Qualifications section */
+
+    #about-us .container {
+        padding: 0 10px 0 30px;
+        }
+
+     /* Testimonials section */
+
+@media screen and (max-width:531px) {
+    #testimonials .blockquote {
+        padding: 0 1vmin 0 1vmin;
+    }
+    #testimonials .quote-two {
+        padding-top: 15vmin;
+    }
+}
+
