@@ -97,3 +97,11 @@
     }
 }
 
+/* Logos section */
+
+@media screen and (max-width:531px) {
+    #logos-expertise .adobe-analytics {
+        padding-top: 6vmin;
+    }
+
+}
